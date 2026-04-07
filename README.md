@@ -4,7 +4,7 @@ Mean Reversion or Structural Break? A Framework for Copper in the Age of Electri
 Author: Kshitanjay Sondhi
 ,Affiliation: ICRIER (Indian Council for Research on International Economic Relations), ex-S&P Global, London School of Economics and Political Science
 ,Date: April 2026
-,SSRN: [link when uploaded]
+,Substack: https://kshitanjay.substack.com/p/mean-reversion-or-structural-break
 ,Contact: kshitanjaysondhi@gmail.com
 
 
